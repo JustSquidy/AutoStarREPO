@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoStar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b7994e8777a21ff020f57ac3042b9a4bcf67c78")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a754bff1758b86d55544d0b1bb8fe2b8dbc57028")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoStar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoStar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
